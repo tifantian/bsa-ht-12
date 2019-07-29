@@ -1,12 +1,14 @@
 :root {
   --main-bg: rgb(255, 255, 255);
   --text: #333;
-  --border: rgb(231, 231, 231);
+  --border: rgba(231, 231, 231, 0.767);
   --link: rgb(0, 0, 124);
   --date: #333;
   --time: #333;
-  --requires-list: #333;
-  --footer-bg: white;
+  --requires-list: rgb(97, 97, 97);
+  --footer-bg: whitesmoke;
   --icon: rgb(121, 121, 121);
   --pending: rgb(228, 228, 49);
+  --submitted: rgba(0, 158, 0, 0.596);
+  --paid: rgba(190, 0, 0, 0.555);
 }
