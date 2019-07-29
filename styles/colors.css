@@ -1,0 +1,12 @@
+:root {
+  --main-bg: rgb(255, 255, 255);
+  --text: #333;
+  --border: rgb(231, 231, 231);
+  --link: rgb(0, 0, 124);
+  --date: #333;
+  --time: #333;
+  --requires-list: #333;
+  --footer-bg: white;
+  --icon: #333;
+  --pending: rgb(206, 206, 0);
+}
