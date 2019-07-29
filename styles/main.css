@@ -38,12 +38,12 @@ body {
 
 .card-status {
   margin-top: 6px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .card-status span {
   font-size: 1.3em;
-  padding: 5px;
+  padding: 10px;
   border-radius: 13px;
   text-transform: uppercase;
 }
